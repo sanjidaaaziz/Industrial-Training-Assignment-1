@@ -1,4 +1,8 @@
-# print_numbers.py
-for i in range(1, 10):
-    print(i)
+# print fibonacci num
+def fibonacci(n):
+    a, b = 0, 1
+    for _ in range(n):
+        print(a, end=" ")
+        a, b = b, a + b
 
+fibonacci(10)
