@@ -11,4 +11,3 @@
 9. Edit the code which you have written. Print the fibonacci number now.
 10. Commit the code into develop.
 11. Finally merge the code into master.
-12. Create a public repo on github.
